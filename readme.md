@@ -1,4 +1,4 @@
-# Projeto QR Code em Java
+# Projeto QR Code
 
 Este projeto implementa a geração e leitura de QR Codes em Java. Utilizando bibliotecas populares, como `ZXing`, o objetivo é fornecer uma maneira simples de gerar e ler QR Codes para URLs, textos ou outras informações.
 
